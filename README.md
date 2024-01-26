@@ -12,11 +12,11 @@
 ## **Skills wall:**
 
 <p align="left">
-<img src="https://img.shields.io/badge/typescript-F73C7B?logo=typescript&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/github%20actions-F73C7B?logo=github%20actions&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/typescript-381ce3?logo=typescript&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github%20actions-381ce3?logo=github%20actions&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/npm-393359?logo=npm&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/css3-F73C7B?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/styled%20components-4D4577?logo=styled%20components&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/css3-381ce3?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/styled%20components-381ce3?logo=styled%20components&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/express.js-4D4577?logo=express&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/docker-F73C7B?logo=docker&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/git-F73C7B?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
