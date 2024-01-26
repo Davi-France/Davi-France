@@ -37,11 +37,6 @@
 </p>
 
 
-## **Recent projects:**
-
-<a href="https://github.com/Davi-France/todo-List"></a>
-
-
 ## **You can find me on:**
 
 *Click to be redirected*
