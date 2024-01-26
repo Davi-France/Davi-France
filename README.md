@@ -14,26 +14,26 @@
 <p align="left">
 <img src="https://img.shields.io/badge/typescript-381ce3?logo=typescript&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/github%20actions-381ce3?logo=github%20actions&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/npm-393359?logo=npm&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/npm-633dea?logo=npm&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/css3-381ce3?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/styled%20components-381ce3?logo=styled%20components&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/express.js-4D4577?logo=express&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/docker-381ce3?logo=docker&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/git-381ce3?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/python-381ce3?logo=python&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/strapi-393359?logo=strapi&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/strapi-633dea?logo=strapi&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/figma-381ce3?logo=figma&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/github%20pages-393359?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github%20pages-633dea?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/javascript-381ce3?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/bootstrap-393359?logo=bootstrap&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/bootstrap-633dea?logo=bootstrap&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/fastapi-381ce3?logo=fastapi&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/html5-4D4577?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/visual%20studio%20code-393359?logo=visual%20studio%20code&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/visual%20studio%20code-633dea?logo=visual%20studio%20code&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/sass-4D4577?logo=sass&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/node.js-381ce3?logo=node.js&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/vercel-4D4577?logo=vercel&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/react-381ce3?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/github-393359?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github-633dea?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
 </p>
 
 
