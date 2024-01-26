@@ -41,8 +41,8 @@
 <div align="center">
   <a href="https://github.com/Davi-France">
     
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=douglastrindade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglastrindade&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Davi-France&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-France&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## **You can find me on:**
