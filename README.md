@@ -39,7 +39,7 @@
 </p>
 
 <div align="left">
-  <img width="300px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-France&show_icons=true&theme=radical"/>
+  <img width="300px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-France&show_icons=true&theme=tokyonight"/>
 </div>
 
 ## **You can find me on:**
