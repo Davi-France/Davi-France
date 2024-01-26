@@ -37,9 +37,9 @@
 <img src="https://img.shields.io/badge/react-381ce3?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/github-633dea?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
 </p>
-
-<img height="180em" src=" https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
-
+<div>
+  <img height="180em" src=" https://github-readme-stats.vercel.app/api?username=Davi-France&show_icons=true&theme=radical"/>
+</div>
 ## **You can find me on:**
 
 *Click to be redirected*
