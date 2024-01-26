@@ -38,9 +38,11 @@
 <img src="https://img.shields.io/badge/github-633dea?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
 </p>
 
-<div align="left">
-  <img width="300px" src= "https://github-readme-stats.vercel.app/api/?username=Davi-France&show_icons=true&theme=tokyonight"/>
-  <img width="300px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-France&show_icons=true&theme=tokyonight"/>
+<div align="center">
+  <a href="https://github.com/Davi-France">
+    
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=douglastrindade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglastrindade&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## **You can find me on:**
