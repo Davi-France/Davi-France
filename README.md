@@ -13,6 +13,8 @@
 
 <p align="left">
 <img src="https://img.shields.io/badge/typescript-381ce3?logo=typescript&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/java-381ce3?logo=java&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/springboot-381ce3?logo=springboot&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/github%20actions-381ce3?logo=github%20actions&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/npm-633dea?logo=npm&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/css3-381ce3?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
