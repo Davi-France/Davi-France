@@ -11,7 +11,7 @@
 
 ## **Skills wall:**
 
-<p align="left"><img src="https://img.shields.io/badge/netlify-4D4577?logo=netlify&style=for-the-badge&logoColor=F2F2F2"/>
+<p align="left">
 <img src="https://img.shields.io/badge/typescript-F73C7B?logo=typescript&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/github%20actions-F73C7B?logo=github%20actions&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/npm-393359?logo=npm&style=for-the-badge&logoColor=F2F2F2"/>
@@ -34,6 +34,7 @@
 <img src="https://img.shields.io/badge/vercel-4D4577?logo=vercel&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/react-F73C7B?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/github-393359?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
+</p>
 
 
 ## **Recent projects:**
