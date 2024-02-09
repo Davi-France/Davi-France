@@ -7,7 +7,7 @@
 
 * Davi Lopes França, 20 Years
 * Full Stack programmer
-* Currently studying ReactTs and NodeJs
+* Currently studying React and NodeJs
 
 ## **Skills wall:**
 
